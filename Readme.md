@@ -7,7 +7,7 @@ Before Procedding further make sure that you have python3 installed on your syst
 Download the Repo
 
 
-![download]()
+![download](/download.png)
 
 open command prompt by simply typing cmd in your windows search bar 
 and make your way into the folder where you download the zip file, extract the zip file and
@@ -15,7 +15,7 @@ then run the below command in your command prompt to install the required librar
 
 `pip install -r requirements.txt`
 
-![requirements](/images/requirements.png)
+![requirements](/requirements.png)
 
 **Downloading Web Driver**
 
@@ -36,7 +36,7 @@ Extract the chromedriver.zip file and place the chromedriver.exe file in the sam
 
 Open the main.py using notepad or an editor and replace the below shown feilds with your credentials
 
-![credentials](/images/Credentials.png)
+![credentials](/Credentials.png)
 
 you need to replace abc@gmail.com by your email and password by your password
 
@@ -44,7 +44,7 @@ you need to replace abc@gmail.com by your email and password by your password
 
 Now you need to enter your Google meet link in the meeting.txt file
 
-![meeting](/images/meeting.png)
+![meeting](/meeting.png)
 
 Replace the Given meet link with your preffered meet link
 
@@ -54,7 +54,7 @@ Now you are all set to go open command prompt and make your way to the folder co
 
 `python3 main.py`
 
-![run](/images/run.png)
+![run](/run.png)
 
 
 Now you shold see an chrome window popping up and entering your credentials automatcally ;)
