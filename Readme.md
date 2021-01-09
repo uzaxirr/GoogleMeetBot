@@ -7,7 +7,7 @@ Before Procedding further make sure that you have python3 installed on your syst
 Download the Repo
 
 
-![download](/download.png)
+![download](/download.jpg)
 
 open command prompt by simply typing cmd in your windows search bar 
 and make your way into the folder where you download the zip file, extract the zip file and
