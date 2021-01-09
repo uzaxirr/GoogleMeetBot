@@ -1,4 +1,5 @@
-#Installation
+# Installation
+
 Before Procedding further make sure that you have python3 installed on your system, if not then you can download it easily from microsoft store
 
 **Installing Libraries**
@@ -29,7 +30,7 @@ If the bot throws an error regarding the complablity version of web driver you c
 
 Extract the chromedriver.zip file and place the chromedriver.exe file in the same folder containing the bot
 
-#Usage
+# Usage
 
 **Specifying Credentials**
 
